@@ -30,11 +30,14 @@
 
 ### Étapes d'installation
 
-1. Clonez ce repository sur votre machine :
+1. Clonez ces repository sur votre machine :
    ```bash
    git https://github.com/MariamTimite/checkpoint_ecommerce_frontend.git
    ```
-   Allez dans le dossier du projet :
+   ```bash
+   git https://github.com/MariamTimite/checkpoint_ecommerce_backend.git
+   ```
+   Allez dans les differents dossiers du projet :
 
 cd checkpoint_ecommerce_frontend
 
@@ -43,6 +46,10 @@ cd checkpoint_ecommerce_frontend
 - npm install
 
 Ouvrez votre navigateur à l'adresse suivante : http://localhost:5751
+
+cd checkpoint_ecommerce_backend
+- npm install
+- npm run dev
 
 # Auteurs
 
